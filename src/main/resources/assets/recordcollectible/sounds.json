@@ -1,0 +1,10 @@
+{
+  "test_music": {
+    "sounds": [
+      {
+        "name": "recordcollectible:space-travel_by_melancholicbird",
+        "stream": true
+      }
+    ]
+  }
+}
